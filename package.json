@@ -1,0 +1,26 @@
+{
+  "name": "lainan",
+  "version": "0.0.1",
+  "description": "LainanAPIを旧バージョンよりも手軽に使えるようにしました！",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TarochanChannel/lainan-npm.git"
+  },
+  "keywords": [
+    "MonHu",
+    "れのらり",
+    "Renorari",
+    "Lainan",
+    "LainanAPI"
+  ],
+  "author": "れのらり",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TarochanChannel/lainan-npm/issues"
+  },
+  "homepage": "https://github.com/TarochanChannel/lainan-npm#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
