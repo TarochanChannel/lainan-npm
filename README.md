@@ -51,3 +51,6 @@ lainan("こんにちは").then((data) => {
 }
 */
 ```
+
+### その他
+このモジュールを利用する前に[LainanAPI利用規約](https://lainan.one/teams.html)をご覧ください。
